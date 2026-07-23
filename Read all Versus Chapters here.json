@@ -1,10 +1,46 @@
 {
   "title": "Versus",
-  "description": "Read all Versus chapters here.\n",
+  "description": "Read all Versus chapters here.\n3",
   "artist": "Azuma",
   "author": "ONE",
   "cover": "https://i.imgur.com/SEvEcqM.jpeg",
   "chapters": {
+    "34": {
+      "title": "Versus Chapter 34",
+      "volume": "6",
+      "last_updated": "1776957251",
+      "groups": {
+        "Versus Chapter 34": [
+          "https://i.imgur.com/AbB0Vwp.jpeg",
+          "https://i.imgur.com/PVn2cLI.jpeg",
+          "https://i.imgur.com/X7jiwbP.jpeg",
+          "https://i.imgur.com/cUVBvMK.jpeg",
+          "https://i.imgur.com/KiyOrD5.jpeg",
+          "https://i.imgur.com/bpi0c3B.jpeg",
+          "https://i.imgur.com/i2ZgNJi.jpeg",
+          "https://i.imgur.com/J2Bfq95.jpeg",
+          "https://i.imgur.com/QPHQJfN.jpeg",
+          "https://i.imgur.com/WPZ4zd8.jpeg",
+          "https://i.imgur.com/Zp9NCmv.jpeg",
+          "https://i.imgur.com/0WMeFL6.jpeg",
+          "https://i.imgur.com/KIj0i32.jpeg",
+          "https://i.imgur.com/SPxj4Yy.jpeg",
+          "https://i.imgur.com/95zU4OV.jpeg",
+          "https://i.imgur.com/asMCO8b.jpeg",
+          "https://i.imgur.com/houen49.jpeg",
+          "https://i.imgur.com/Pal4JX5.jpeg",
+          "https://i.imgur.com/36gQEIR.jpeg",
+          "https://i.imgur.com/FwMorMr.jpeg",
+          "https://i.imgur.com/D9GpfmG.jpeg",
+          "https://i.imgur.com/CpVIq2q.jpeg",
+          "https://i.imgur.com/H0nUBHu.jpeg",
+          "https://i.imgur.com/wruUoih.jpeg",
+          "https://i.imgur.com/NQvnaSw.jpeg",
+          "https://i.imgur.com/LjgjErR.jpeg",
+          "https://i.imgur.com/02Zmaed.jpeg"
+        ]
+      }
+    },
     "33.1": {
       "title": "Versus Chapter 33.1",
       "volume": "6",
@@ -73,42 +109,6 @@
           "https://i.imgur.com/jRrAZYA.jpeg",
           "https://i.imgur.com/03IKq3n.jpeg",
           "https://i.imgur.com/XHVcrqj.jpeg"
-        ]
-      }
-    },
- "34": {
-      "title": "Versus Chapter 34",
-      "volume": "6",
-      "last_updated": "1776957251",
-      "groups": {
-        "Versus Chapter 34": [
-          "https://i.imgur.com/AbB0Vwp.jpeg",
-          "https://i.imgur.com/PVn2cLI.jpeg",
-          "https://i.imgur.com/X7jiwbP.jpeg",
-          "https://i.imgur.com/cUVBvMK.jpeg",
-          "https://i.imgur.com/KiyOrD5.jpeg",
-          "https://i.imgur.com/bpi0c3B.jpeg",
-          "https://i.imgur.com/i2ZgNJi.jpeg",
-          "https://i.imgur.com/J2Bfq95.jpeg",
-          "https://i.imgur.com/QPHQJfN.jpeg",
-          "https://i.imgur.com/WPZ4zd8.jpeg",
-          "https://i.imgur.com/Zp9NCmv.jpeg",
-          "https://i.imgur.com/0WMeFL6.jpeg",
-          "https://i.imgur.com/KIj0i32.jpeg",
-          "https://i.imgur.com/SPxj4Yy.jpeg",
-          "https://i.imgur.com/95zU4OV.jpeg",
-          "https://i.imgur.com/asMCO8b.jpeg",
-          "https://i.imgur.com/houen49.jpeg",
-          "https://i.imgur.com/Pal4JX5.jpeg",
-          "https://i.imgur.com/36gQEIR.jpeg",
-          "https://i.imgur.com/FwMorMr.jpeg",
-          "https://i.imgur.com/D9GpfmG.jpeg",
-          "https://i.imgur.com/CpVIq2q.jpeg",
-          "https://i.imgur.com/H0nUBHu.jpeg",
-          "https://i.imgur.com/wruUoih.jpeg",
-          "https://i.imgur.com/NQvnaSw.jpeg",
-          "https://i.imgur.com/LjgjErR.jpeg",
-          "https://i.imgur.com/02Zmaed.jpeg"  
         ]
       }
     }
